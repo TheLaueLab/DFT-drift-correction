@@ -1,7 +1,7 @@
 # DFT-drift-correction
 Script for microscope drift correction by cross-correlating the brightfield images of cells.
 
-*Author: Aleks Ponjavic, University of Leeds.*
+*Authors: Aleks Ponjavic, University of Leeds; Aleksandra Jartseva, University of Cambridge.*
 
 *Based on algorithm from Manuel Guizar-Sicairos, Samuel T. Thurman, and James R. Fienup, "Efficient subpixel image registration algorithms," Opt. Lett. 33, 156-158 (2008).*
 
